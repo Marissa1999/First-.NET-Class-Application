@@ -1,0 +1,14 @@
+E:\.NET Programming\Labs\Lab1\FirstClass\FirstClass\bin\Debug\FirstClass.exe.config
+E:\.NET Programming\Labs\Lab1\FirstClass\FirstClass\bin\Debug\FirstClass.exe
+E:\.NET Programming\Labs\Lab1\FirstClass\FirstClass\bin\Debug\FirstClass.pdb
+E:\.NET Programming\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.exe
+E:\.NET Programming\Labs\Lab1\FirstClass\FirstClass\obj\Debug\FirstClass.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\FirstClass\FirstClass\bin\Debug\FirstClass.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\FirstClass\FirstClass\bin\Debug\FirstClass.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\FirstClass\FirstClass\bin\Debug\FirstClass.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\FirstClass\FirstClass\obj\Debug\FirstClass.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\FirstClass\FirstClass\obj\Debug\FirstClass.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\FirstClass\FirstClass\obj\Debug\FirstClass.pdb
